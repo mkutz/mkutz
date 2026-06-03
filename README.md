@@ -10,7 +10,7 @@ Today I'm a Staff Engineer at [Entropy Data](https://www.entropy-data.com), buil
 
 - **[ApproveJ](https://approvej.org)** — a simple approval-testing library for the JVM. My most active project, with an IntelliJ plugin and an automatic update flow.
 - **[Shakespeare](https://shakespeareframework.org)** — a framework for writing tests like screenplays using the Screenplay pattern.
-- **Stubit** — lightweight stubs for the JVM.
+- **[Stubit](https://stubit.org)** — lightweight stubs for the JVM.
 
 
 #### I work mostly with
